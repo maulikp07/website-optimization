@@ -12,11 +12,7 @@ button {
   transition: all 0.3s ease-in-out;
   outline: none !important;
 }
-a {
-  min-width: 48px;
-  width: 100%;
-  display: inline-block;
-}
+
 a:hover {
   text-decoration: none;
   cursor: pointer;
@@ -657,8 +653,8 @@ label,
 a {
   font-family: "helvetica";
   font-weight: 400;
-  /* color: #575757!important; */
-  color: #e2e2e2 !important;
+  color: #575757 !important;
+  /* color: #e2e2e2 !important; */
 }
 
 .container {
