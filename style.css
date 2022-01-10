@@ -1049,3 +1049,6 @@ h4 {
     text-align: center;
   }
 }
+.link-name {
+  color: #e6e6e6 !important;
+}
